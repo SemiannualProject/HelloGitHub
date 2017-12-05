@@ -1,5 +1,5 @@
 # HelloGitHub
-This is my first github resp
+This is my initial github resp
 
 This is my attempt to understand how new branch works. 
 
